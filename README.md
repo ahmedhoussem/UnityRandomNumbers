@@ -27,3 +27,7 @@ Simple utility classes that help generate random numbers between [min-max] value
 
 ![](https://raw.githubusercontent.com/ahmedhoussem/UnityRandomNumbers/master/images/editor.PNG)
 
+# OS Mode :
+- Toggle "OS Mode" on to get a constant random value that gets generated in the first call and gets returned for every next call
+- Toggle "OS Mode" off to get a different value every time
+
