@@ -25,5 +25,5 @@ Simple utility classes that help generate random numbers between [min-max] value
 
 # Editor view :
 
-![Editor view](https://raw.githubusercontent.com/ahmedhoussem/UnityRandomNumbers/images/editor.PNG)
+![](https://raw.githubusercontent.com/ahmedhoussem/UnityRandomNumbers/master/images/editor.PNG)
 
