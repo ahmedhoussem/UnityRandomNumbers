@@ -4,7 +4,7 @@ using UnityEditor;
 [CustomPropertyDrawer(typeof(RandomFloat))]
 public class RandomFloatDrawer : PropertyDrawer
 {
-    const float HEIGHT = 15f;
+    const float HEIGHT = 17f;
     const float LABEL_WIDTH = 30f;
     const float TOGGLE_SIZE = 20f;
     const float OS_MODE = 60f;
